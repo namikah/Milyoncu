@@ -1,0 +1,136 @@
+C:\Users\Xaker\Desktop\Nsoft\My Prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.exe
+C:\Users\Xaker\Desktop\Nsoft\My Prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.pdb
+C:\Users\Xaker\Desktop\Nsoft\My Prog\Milyoner\Milyoner\bin\Debug\Milyoner.exe
+C:\Users\Xaker\Desktop\Nsoft\My Prog\Milyoner\Milyoner\bin\Debug\Milyoner.pdb
+C:\Users\Xaker\Desktop\Nsoft\My Prog\Milyoner\Milyoner\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Xaker\Desktop\Nsoft\My Prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.Form1.resources
+C:\Users\Xaker\Desktop\Nsoft\My Prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.Properties.Resources.resources
+C:\Users\Xaker\Desktop\Nsoft\My Prog\Milyoner\Milyoner\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Xaker\Desktop\Nsoft\My Prog\Milyoner\Milyoner\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Администратор\Desktop\Nsoft\VISUAL STUDIO\my prog\Milyoner\Milyoner\bin\Debug\Milyoner.exe
+C:\Users\Администратор\Desktop\Nsoft\VISUAL STUDIO\my prog\Milyoner\Milyoner\bin\Debug\Milyoner.pdb
+C:\Users\Администратор\Desktop\Nsoft\VISUAL STUDIO\my prog\Milyoner\Milyoner\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\Nsoft\VISUAL STUDIO\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.Properties.Resources.resources
+C:\Users\Администратор\Desktop\Nsoft\VISUAL STUDIO\my prog\Milyoner\Milyoner\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Администратор\Desktop\Nsoft\VISUAL STUDIO\my prog\Milyoner\Milyoner\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Администратор\Desktop\Nsoft\VISUAL STUDIO\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.exe
+C:\Users\Администратор\Desktop\Nsoft\VISUAL STUDIO\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.pdb
+C:\Users\Администратор\Desktop\Nsoft\VISUAL STUDIO\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.frmreklam.resources
+C:\Users\Администратор\Desktop\Nsoft\VISUAL STUDIO\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.Form3.resources
+C:\Users\Администратор\Desktop\Nsoft\VISUAL STUDIO\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.Form4.resources
+C:\Users\Администратор\Desktop\Nsoft\VISUAL STUDIO\my prog\Milyoner\Milyoner\bin\Debug\Interop.WMPLib.dll
+C:\Users\Администратор\Desktop\Nsoft\VISUAL STUDIO\my prog\Milyoner\Milyoner\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Администратор\Desktop\Nsoft\VISUAL STUDIO\my prog\Milyoner\Milyoner\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Администратор\Desktop\Nsoft\VISUAL STUDIO\my prog\Milyoner\Milyoner\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Администратор\Desktop\Nsoft\VISUAL STUDIO\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.csproj.ResolveComReference.cache
+C:\Users\Администратор\Desktop\Nsoft\VISUAL STUDIO\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.Form1.resources
+C:\Users\Администратор\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Администратор\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Администратор\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.csproj.ResolveComReference.cache
+C:\Users\Администратор\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.exe
+C:\Users\Администратор\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.pdb
+C:\Users\Администратор\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\bin\Debug\Milyoner.exe
+C:\Users\Администратор\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\bin\Debug\Milyoner.pdb
+C:\Users\Администратор\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\bin\Debug\Interop.WMPLib.dll
+C:\Users\Администратор\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Администратор\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.Form1.resources
+C:\Users\Администратор\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.frmreklam.resources
+C:\Users\Администратор\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.Form3.resources
+C:\Users\Администратор\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.Form4.resources
+C:\Users\Администратор\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.Properties.Resources.resources
+C:\Users\Администратор\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Администратор\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\NAMIQ\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Interop.WMPLib.dll
+E:\NAMIQ\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\NAMIQ\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.csproj.ResolveComReference.cache
+E:\NAMIQ\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.exe
+E:\NAMIQ\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.pdb
+E:\NAMIQ\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\bin\Debug\Milyoner.exe
+E:\NAMIQ\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\bin\Debug\Milyoner.pdb
+E:\NAMIQ\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\bin\Debug\Interop.WMPLib.dll
+E:\NAMIQ\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\bin\Debug\AxInterop.WMPLib.dll
+E:\NAMIQ\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\NAMIQ\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.Form1.resources
+E:\NAMIQ\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.frmreklam.resources
+E:\NAMIQ\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.Form3.resources
+E:\NAMIQ\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.Form4.resources
+E:\NAMIQ\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.Properties.Resources.resources
+E:\NAMIQ\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\NAMIQ\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\NSoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Interop.WMPLib.dll
+D:\NSoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\NSoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.csproj.ResolveComReference.cache
+D:\NSoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.exe
+D:\NSoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.pdb
+D:\NSoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\NSoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.Form1.resources
+D:\NSoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.frmreklam.resources
+D:\NSoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.Form3.resources
+D:\NSoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.Form4.resources
+D:\NSoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.Properties.Resources.resources
+D:\NSoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\NSoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\NSoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\bin\Debug\Milyoner.exe
+D:\NSoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\bin\Debug\Milyoner.pdb
+D:\NSoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\bin\Debug\Interop.WMPLib.dll
+D:\NSoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\bin\Debug\AxInterop.WMPLib.dll
+D:\NSoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\bin\Debug\Milyoner.exe.config
+H:\my prog\Milyoner\Milyoner\bin\Debug\Milyoner.exe.config
+H:\my prog\Milyoner\Milyoner\obj\x86\Debug\Interop.WMPLib.dll
+H:\my prog\Milyoner\Milyoner\obj\x86\Debug\AxInterop.WMPLib.dll
+H:\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.csproj.ResolveComReference.cache
+H:\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.exe
+H:\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.pdb
+H:\my prog\Milyoner\Milyoner\bin\Debug\Milyoner.exe
+H:\my prog\Milyoner\Milyoner\bin\Debug\Milyoner.pdb
+H:\my prog\Milyoner\Milyoner\bin\Debug\Interop.WMPLib.dll
+H:\my prog\Milyoner\Milyoner\bin\Debug\AxInterop.WMPLib.dll
+H:\my prog\Milyoner\Milyoner\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.Form1.resources
+H:\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.frmreklam.resources
+H:\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.Form3.resources
+H:\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.Form4.resources
+H:\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.Properties.Resources.resources
+H:\my prog\Milyoner\Milyoner\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\my prog\Milyoner\Milyoner\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\NAMIQ\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\bin\Debug\Milyoner.exe.config
+D:\NAMIQ\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Interop.WMPLib.dll
+D:\NAMIQ\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\NAMIQ\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.csproj.ResolveComReference.cache
+D:\NAMIQ\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.exe
+D:\NAMIQ\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.pdb
+D:\NAMIQ\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\bin\Debug\Milyoner.exe
+D:\NAMIQ\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\bin\Debug\Milyoner.pdb
+D:\NAMIQ\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\bin\Debug\Interop.WMPLib.dll
+D:\NAMIQ\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\bin\Debug\AxInterop.WMPLib.dll
+D:\NAMIQ\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\NAMIQ\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.Form1.resources
+D:\NAMIQ\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.frmreklam.resources
+D:\NAMIQ\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.Form3.resources
+D:\NAMIQ\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.Form4.resources
+D:\NAMIQ\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.Properties.Resources.resources
+D:\NAMIQ\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\NAMIQ\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Namik Heydarov\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\bin\Debug\Milyoner.exe.config
+C:\Users\Namik Heydarov\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Namik Heydarov\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Namik Heydarov\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.csproj.ResolveComReference.cache
+C:\Users\Namik Heydarov\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.exe
+C:\Users\Namik Heydarov\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.pdb
+C:\Users\Namik Heydarov\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\bin\Debug\Milyoner.exe
+C:\Users\Namik Heydarov\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\bin\Debug\Milyoner.pdb
+C:\Users\Namik Heydarov\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\bin\Debug\Interop.WMPLib.dll
+C:\Users\Namik Heydarov\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Namik Heydarov\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.Form1.resources
+C:\Users\Namik Heydarov\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.frmreklam.resources
+C:\Users\Namik Heydarov\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.Form3.resources
+C:\Users\Namik Heydarov\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.Form4.resources
+C:\Users\Namik Heydarov\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.Properties.Resources.resources
+C:\Users\Namik Heydarov\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.csproj.GenerateResource.Cache
+C:\Users\namikah\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\bin\Debug\Milyoner.exe.config
+C:\Users\namikah\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\namikah\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\namikah\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.csproj.ResolveComReference.cache
+C:\Users\namikah\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.exe
+C:\Users\namikah\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Milyoner\Milyoner\obj\x86\Debug\Milyoner.pdb
